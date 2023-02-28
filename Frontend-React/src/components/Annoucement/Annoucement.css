@@ -1,0 +1,54 @@
+
+.App-header {
+    background-color: rosybrown;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+
+}
+
+.card-a {
+    padding-top: 10px;
+    width: 75%;
+    background-color: #F9F4F4;
+    border: 1px solid rgba(151, 20, 77, 0.2);
+
+}
+
+
+.color1 {
+    text-align: center;
+        background-color: rgba(151, 20, 77, 0.2);;
+        /* opacity: 20%; */
+        /* padding: 20px; */
+        margin-bottom: 15px;
+        color: black;
+            border:1px solid #97144D
+}
+
+.color2 {
+    text-align: center;
+    /* background-color: rgb(207, 94, 128); */
+    /* padding: 20px; */
+    margin-bottom: 15px;
+    border: 1px solid #97144D
+
+}
+
+/* .App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    } */
+/* } */

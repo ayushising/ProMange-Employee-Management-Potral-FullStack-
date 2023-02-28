@@ -1,0 +1,42 @@
+.container-email {
+    text-align: center;
+    margin-top: 10rem;
+    border-color: aquamarine;
+    height:110px;
+    width: 500px;
+    background-color: rgb(239, 241, 244);
+        box-shadow: 0px 28px 26px 0 rgb(37 94 141 / 20%)
+}
+
+.box {width: 500px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 11px;
+    margin-bottom: 10px;
+}
+
+.text {
+    width: 500px;
+    border-width: 2px;
+    margin-left: 1rem;
+    
+    padding: "22px";
+    
+
+}
+
+.btn-email {
+    width: 500px;
+    height: 51px;
+    border-width: 0px;
+    border-radius: 11px;
+    margin-bottom: 10px;
+    background-color: #97144D;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 9px 14px 0 rgb(133 148 160 / 20%)
+}

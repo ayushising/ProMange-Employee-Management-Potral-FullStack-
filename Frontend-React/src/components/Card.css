@@ -1,0 +1,68 @@
+.Card {
+    width: 450px;
+    height: 290px;
+    background: #F9F4F4;
+    /* border-radius: 10px; */
+    /* box-shadow: 0px 1px 10px 1px; */
+}
+
+/* .upper-container {
+    height: 100px;
+} */
+
+.image-container {
+    background: #F9F4F4;
+    /* width: 250px;
+    height: 250px; */
+    /* border-radius: 50%; */
+    /* padding: 5px; */
+    /* transform: translate(90px, 35px); */
+    margin-left: 120px;
+    text-align: center;
+    align-items: center;
+}
+
+/* img {
+    border: 2px solid #F9F4F4;
+} */
+
+.lower-container {
+    /* margin-top: 10px; */
+    height: 412px;
+    background: #F9F4F4;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.lower-container h3,
+h5 {
+
+    padding: 3px;
+}
+
+.lower-container h4 {
+    margin-bottom: 2px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.lower-container h3 {
+    font-size: 1.5rem;
+}
+
+button {
+    margin: 1rem;
+    color: white;
+    margin-top: 20px;
+    font: bold;
+    background-color: #97144D;
+    padding: 0.6rem;
+    border-radius: 6px;
+    transition-duration: 0.5s;
+
+}
+.button-card:hover {
+    background-color: #97144D;
+    color: white;
+    transform: scale(1.1);
+}
