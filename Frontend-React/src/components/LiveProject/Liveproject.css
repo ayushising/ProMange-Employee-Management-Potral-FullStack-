@@ -1,0 +1,197 @@
+#liveproject-table td,
+#liveproject-table th {
+  /* border: 1px solid #dddddd00; */
+  border: 1px solid #dddddd70;
+  padding: 8px;
+}
+
+#liveproject-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#liveproject-table tr:hover {
+  background-color: #ddd;
+}
+
+#liveproject-table th {
+
+  text-align: left;
+  background-color: #97144D;
+  color: white;
+
+}
+
+.skil {
+  list-style: inside;
+
+}
+
+.jdes {
+  
+margin-top: -17px;
+  margin-left: 12%;
+     /* margin-right: 12%; */
+  color: #97144D;
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+.de {
+  font-size: 20px;
+  margin: 0% 12% 0% 12%
+}
+
+#liveproject-table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+
+.own {
+  text-align: left;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  font-size: larger;
+  color: #97144D;
+}
+
+.liveproject {
+  margin-bottom: 20px;
+  color: #97144D;
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 30px;
+  /* background-color: #ddddddaa; */
+}
+
+#JobOpportunity-table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+
+}
+
+.dess {
+  font-size: 20px;
+  margin: 0% 15% 0% 20%;
+  
+
+}
+
+.jde {
+  /* font-size: 150%; */
+margin-top: -17px;
+   /* margin-left: 12%; */
+  margin-right: 12%;
+  color: #97144D;
+  margin-bottom: 20px;
+  font-size: 28px;}
+
+#JobOpportunity-table td,
+#JobOpportunity-table th {
+  /* border: 1px solid #ddd; */
+  border: 1px solid #dddddd70;
+  padding: 8px;
+}
+
+#JobOpportunity-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#JobOpportunity-table tr:hover {
+  background-color: #ddd;
+}
+
+#JobOpportunity-table th {
+
+  text-align: left;
+  background-color: #97144D;
+    color: white;
+
+}
+
+.support {
+
+  color: black;
+  text-align: center;
+
+}
+
+#Support-table td,
+#Support-table th {
+
+  border: 1px solid #dddddd70;
+  /* border: 1px solid #ddd; */
+  padding: 8px;
+
+}
+
+.flow {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.des {
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: medium;
+}
+
+.title {
+  font: bold;
+  text-align: center;
+  font-size: xx-large;
+  color: #97144D;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+#Support-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.df {
+  text-decoration: none;
+}
+
+#Support-table tr:hover {
+  background-color: #ddd;
+}
+
+#Support-table th {
+
+  text-align: left;
+  background-color: #97144D;
+    color: white;
+
+}
+
+#Support-table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+
+}
+
+.t {
+  text-decoration: none;
+  color: black;
+}
