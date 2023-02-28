@@ -1,0 +1,166 @@
+ #productsList {
+  width: auto;
+  transition: 0.3s;
+  border-radius: 5px 5px 5px 5px;
+  height: 5%;
+  padding: 5px;
+  margin-left: 10%;
+  margin-right: 5%;
+  /* margin-top: 286px; */
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+
+#product1 {
+  width: 20%;
+
+  transition: 0.3s;
+  border-radius: 5px 5px 5px 5px;
+  height: 5%;
+  padding: 5px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#product2 {
+  width: 20%;
+  border: 2px solid rgba(97, 34, 69, 0.3);
+
+  transition: 0.3s;
+  border-radius: 5px 5px 5px 5px;
+  height: 5%;
+  padding: 5px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.columnOurProducts {
+  float: left;
+  width: 20%;
+  padding: 0 10px;
+  margin: 10px;
+  margin-bottom: 3px;
+}
+
+h1 {
+  text-align: center;
+}
+hr{
+  text-align:center;
+  width: 140px;
+  height: 4px;
+  background-color: #af356a;
+  margin-top: -5px;
+}
+.card .life{
+  visibility: hidden;
+  width: 200px;
+  background-color: white;
+  color: #97144d;
+   padding: 5px 5px; 
+  border-radius: 6px;
+  z-index: 1;
+  position: absolute;
+  border: 1px solid;
+  
+}
+.card .personal{
+  visibility: hidden;
+  width: 200px;
+  background-color: white;
+  color: #97144d;
+   padding: 5px 5px; 
+  border-radius: 6px;
+  z-index: 1;
+  position: absolute;
+  border: 1px solid;
+  
+}
+.card .homel{
+  visibility: hidden;
+  width: 200px;
+  background-color: white;
+  color: #97144d;
+   padding: 5px 5px; 
+  border-radius: 6px;
+  z-index: 1;
+  position: absolute;
+  border: 1px solid;
+  
+}
+.card .cred{
+  visibility: hidden;
+  width: 200px;
+  background-color: white;
+  color: #97144d;
+
+   padding: 5px 5px; 
+  border-radius: 6px;
+  z-index: 1;
+  position: absolute;
+  border: 1px solid;
+  
+}
+.card .heal{
+  visibility: hidden;
+  width: 200px;
+  background-color: white;
+  color: #97144d;
+
+   padding: 5px 5px; 
+  border-radius: 6px;
+  z-index: 1;
+  position: absolute;
+  border: 1px solid;
+  
+}
+
+.card {
+  border: 1px solid rgba(97, 34, 69, 0.3);
+  padding: 2px 2px 2px 2px;
+  text-align: center;
+  width: auto;
+  border-radius: 0px 0px 0px 0px;
+
+}
+
+.card:hover {
+  color: #97144d;
+  
+}
+.card:hover .life{
+  visibility: visible;
+  z-index: 1;
+}
+.card:hover .personal{
+  visibility: visible;
+  z-index: 1;
+}
+.card:hover .cred{
+  visibility: visible;
+  z-index: 1;
+}
+.card:hover .homel{
+  visibility: visible;
+  z-index: 1;
+}
+.card:hover .heal{
+  visibility: visible;
+  z-index: 1;
+}
+.para {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 48px;
+}
+.life{
+  text-align:start;
+} 
+.imgcenter{
+  align-items: center;
+  margin-left: 40px;
+}
+.hrOurProducts{
+  margin-left:650px;
+}

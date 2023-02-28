@@ -1,0 +1,31 @@
+.credi{
+    margin-top: 7%;
+}
+.creditImg{
+    align-items: center;
+    width: 98%;
+    margin-left: 1%;
+    height: 300px;
+}
+.sit{
+    
+    text-align: left;
+    color: #97144d;
+    font-size: 28px;
+    margin-top: 35px;
+    margin-left: 5%;
+    margin-bottom: 12px;
+    margin-right: 5%;
+}
+.crd{
+    font-size: 15px;
+    text-align: justify;
+    margin-left:  5%;
+    margin-right: 5%;
+}
+.basicList{
+    margin-right: 20%;
+    text-align: left;
+    margin-left: 5%;
+    font-size: 15px;
+}

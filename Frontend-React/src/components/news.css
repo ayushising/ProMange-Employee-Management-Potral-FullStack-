@@ -1,0 +1,95 @@
+.button{
+    background-color: #97144D;
+    border-radius: 5%;
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 16px;
+    /* margin: 2px; */
+    cursor: pointer;
+    height: 42px;
+    margin-bottom:1rem ;
+    margin-top:2px
+}
+.button:hover{
+    background-color: #97144D;
+    color: white;
+    transform: scale(1.1);
+}
+.news{
+    /* box-shadow: #636c71 0px 0px 10px; */
+    border-radius: 1%;
+}
+.news_parent {
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 350px;
+    /* margin-right: 70px; */
+    justify-content: center;
+    width: 50%;
+    height: fit-content;
+    /* background-color: #512a2a; */
+}
+
+
+.container {
+    clear: both;
+    position: relative;
+    margin-left: 2rem;
+    margin-bottom: 20px;
+}
+
+.container .arrow {
+    width: 12px;
+    height: 20px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    top: 6px;
+    right: -1px;
+}
+
+.container .arrow .outer {
+    width: 0;
+    height: 0;
+    border-right: 20px solid #b3b0b0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.container .arrow .inner {
+    width: 0;
+    height: 0;
+    border-right: 20px solid #e8eaec;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 2px;
+}
+
+.container .message-body {
+    float: left;
+    width: 500px;
+    height: auto;
+    border: 1px solid #CCC;
+    background-color: #e8eaec;
+    border: 1px solid #b3b0b0;
+    padding: 6px 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.container .message-body p {
+    margin: 0;
+}

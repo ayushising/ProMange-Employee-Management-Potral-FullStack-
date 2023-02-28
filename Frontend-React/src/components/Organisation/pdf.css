@@ -1,0 +1,39 @@
+.react-pdf__Page__textContent{
+    display: none;
+
+}
+
+.react-pdf__Page__annotations{
+    display: none;
+}
+/* .circletag {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background: #E6E7ED;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 54px;
+    text-align: center;
+}
+
+.circletag img {
+    margin-top: 100px;
+} */
+
+div.circletag {
+    /* display: block; */
+    width: 100px;
+    height: 100px;
+    background: #E6E7ED;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+div.circletag>img {
+    max-height: 100%;
+    max-width: 100%;
+}

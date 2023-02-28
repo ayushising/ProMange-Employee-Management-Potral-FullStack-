@@ -1,0 +1,39 @@
+
+
+.Card-profile {
+    width: 422px;
+    height: 400px;
+    background: #F9F4F4;
+}
+
+.Card-Profile-large {
+    width: 1277px;
+    height: 400px;
+    background: #F9F4F4;
+}
+.Card-profile-medium{
+        width: 843px;
+            height: 400px;
+            background: #F9F4F4;
+}
+
+.Container-profile {
+    background: #F9F4F4;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+
+
+.column {
+    flex: 50%;
+    /* padding: 5px; */
+}
+
+.row {
+    display: flex;
+    /* margin-left:-5px;
+    margin-right:-5px; */
+}

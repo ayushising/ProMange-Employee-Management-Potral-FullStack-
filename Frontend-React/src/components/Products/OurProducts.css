@@ -1,0 +1,172 @@
+#productsList {
+    width: auto;
+    transition: 0.3s;
+    border-radius: 5px 5px 5px 5px;
+    height: 5%;
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    align-items: center;
+  
+  }
+  
+  #product1 {
+    width: 20%;
+  
+    transition: 0.3s;
+    border-radius: 5px 5px 5px 5px;
+    height: 5%;
+    padding: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  
+  #product2 {
+    width: 20%;
+    border: 2px solid rgba(97, 34, 69, 0.3);
+  
+    transition: 0.3s;
+    border-radius: 5px 5px 5px 5px;
+    height: 5%;
+    padding: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .ser{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .column1 {
+    float: left;
+    width: 30%;
+    padding: 0 35px;
+    margin: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* h1 {
+    text-align: center;
+  } */
+  .hr1{
+    margin-left: 620px;
+      text-align: center;
+      width: 200px;
+      opacity: 2;
+      height: 1rem;
+      background-color: #af356a;
+      margin-top: 2px;
+  }
+  .card1 .life{
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #97144d;
+     padding: 5px 5px; 
+    border-radius: 6px;
+    z-index: 1;
+    position: absolute;
+    border: 1px solid;
+    
+  }
+  .card1 .personal{
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #97144d;
+     padding: 5px 5px; 
+    border-radius: 6px;
+    z-index: 1;
+    position: absolute;
+    border: 1px solid;
+    
+  }
+  .card1 .homel{
+        margin-left: 50px;
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #97144d;
+     padding: 5px 5px; 
+    border-radius: 6px;
+    z-index: 1;
+    position: absolute;
+    border: 1px solid;
+    
+  }
+  .card1 .cred{
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #97144d;
+  
+     padding: 5px 5px; 
+    border-radius: 6px;
+    z-index: 1;
+    position: absolute;
+    border: 1px solid;
+    
+  }
+  .card1 .heal{
+        margin-left: 50px;
+    visibility: hidden;
+    width: 200px;
+    background-color: white;
+    color: #97144d;
+  
+     padding: 5px 5px; 
+    border-radius: 6px;
+    z-index: 1;
+    position: absolute;
+    border: 1px solid;
+    
+  }
+  
+  .card1 {
+    /* border: 2px solid rgba(97, 34, 69, 0.3); */
+    border: 1px solid rgba(113, 110, 110, 0.3);
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    width: auto;
+    
+    margin-left: 50px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 9px 14px 0 rgb(133 148 160 / 20%)
+  }
+  
+  .card1:hover {
+    color: #97144d;
+    border-color: #97144d;
+    
+  }
+  .card1:hover .life{
+    visibility: visible;
+    z-index: 1;
+  }
+  .card1:hover .personal{
+    visibility: visible;
+    z-index: 1;
+  }
+  .card1:hover .cred{
+    visibility: visible;
+    z-index: 1;
+  }
+  .card1:hover .homel{
+    visibility: visible;
+    z-index: 1;
+  }
+  .card1:hover .heal{
+    visibility: visible;
+    z-index: 1;
+  }
+  .p1 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .life{
+    text-align:start;
+  } 
+  

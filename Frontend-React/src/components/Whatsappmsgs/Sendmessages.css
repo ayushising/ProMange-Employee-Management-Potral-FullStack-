@@ -1,0 +1,75 @@
+.communication .whatsapp-card {
+    background-color: var(--light-color);
+    border-radius: 10px;
+    width: 300px;
+    min-height: 400px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 0.5em;
+  }
+  
+  .communication .whatsapp-card .title {
+    color: var(--check-color);
+    font-size: 1.4em;
+    margin-top: 0.5em;
+  }
+  
+  .communication .whatsapp-card .search_contact_whatsapp {
+    width: 95%;
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+    column-gap: 1em;
+    margin: 1em 0;
+  }
+  
+  .communication .whatsapp-card .search_contact_whatsapp .add_new_client {
+    margin-top: 0.5em;
+    color: var(--grey-color);
+    cursor: pointer;
+  }
+  
+  /* --------------------------------- ERRORS ---------------------------------- */
+  .errors {
+    font-size: 0.75em;
+    background-color: var(--closing-color);
+    color: var(--light-color);
+    width: 90%;
+    padding: 0.2em 0.5em;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0.8em;
+  }
+  
+  .errors-null {
+    font-size: 0.75em;
+    background-color: none;
+    color: var(--light-color);
+    width: 90%;
+    padding: 0.2em 0.5em;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0.8em;
+  }
+
+  .disabled_change_cursor {
+    cursor: not-allowed;
+}
+
+.closing:hover {
+  color: var(--closing-color)
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cursor_pointer {
+  cursor: pointer;
+}
+
+.flex_middle {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
